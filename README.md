@@ -11,6 +11,7 @@ Check out my site - [nihilist.uk](https://nihilist.uk)
 ## Achievements and Certifications
 
 [<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width=100>](https://www.credly.com/badges/db3005cd-aead-43d3-8b30-fc59ef8b0767/public_url)
+[<img src="https://training.linuxfoundation.org/wp-content/uploads/2021/09/KCNA-Logo.png" width=100>](https://www.credly.com/badges/08b357ec-651e-40f6-85b5-a5b32ca95898/public_url)
 
 [<img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width=100>](https://learn.microsoft.com/api/credentials/share/en-us/JackWalker-1706/AB9028417F7C4133?sharingId=903CB362A3F07B4)
 [<img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width=100>](https://learn.microsoft.com/api/credentials/share/en-us/JackWalker-1706/371631A05043004E?sharingId=903CB362A3F07B4)
